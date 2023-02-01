@@ -19,3 +19,18 @@ win+r打开 cmd 输完重启
 https://github.com/Vince0H/keyboard-switch
 
 ---
+
+---
+
+- 快速获取原版 windows 系统镜像
+`https://latest10.win/?iui.su`
+
+- 十余年持续提供可靠的原版系统
+`https://next.itellyou.cn/?iui.su`
+
+- 提供极简 Windows 系统下载
+`https://www.sysmini.com/?iui.su`
+
+- 青苹果 gho 系统镜像下载
+`http://www.pggho.com/forum-36-1.html?iui.su`
+---
